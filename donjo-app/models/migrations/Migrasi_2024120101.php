@@ -37,7 +37,7 @@
 
 defined('BASEPATH') || exit('No direct script access allowed');
 
-class Migrasi_2024110101 extends MY_model
+class Migrasi_2024120101 extends MY_model
 {
     public function up()
     {
